@@ -8,12 +8,17 @@
 
 **核心关键词：Telegram 账号怎么买**
 
+![Telegram 账号怎么买封面配图（原创示意）](./images/telegram/gen-cover.png)
+
+
 第一次搜「Telegram 账号怎么买」，很容易被价格光谱晃到：全新成品号、满月到数年号龄、2018–2020 超早年份，再加上 Premium 大会员 3/6/12 个月充值。真正稳的决策顺序不是「哪个最便宜」，而是：**要能登录的身份、要扛一段时间的业务号，还是只要给现有号开通大会员？**
 
 本文用原创表述写清选型逻辑，并以 **HUOAD（火鸟广告，huoad.com）** 可核实商品与公开美元标价做表。老号库存可能很少；**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
 ![HUOAD Telegram 账号分类示意：美国 +1 与 API 接码成品号](./images/telegram/category-telegram.png)
 
+
+![Telegram 号龄与用途怎么配（原创示意）](./images/telegram/gen-age-ladder.png)
 
 ## 直接结论
 
